@@ -1,7 +1,7 @@
 ## CodeReader
 ![CodeReader v1.0.0](http://albertolourenco.com.br/github/codereader.png)
 
-This is a simple view controller wich you can call to read Barcodes or QRCodes.
+This is a simple view controller wich you can call to read Barcodes or QRCodes for iOS developed with Swift 4.
 
 Implementing the delegate you will receive objects thats reflect what camera read.
 
@@ -33,4 +33,6 @@ handleAutomatically
 tintColor
 title
 subtitle
-```markdown
+```
+
+Thanks!
