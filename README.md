@@ -3,7 +3,14 @@
 
 This is a simple view controller wich you can call to read Barcodes or QRCodes for iOS developed with Swift 4.
 
-Implementing the delegate you will receive objects thats reflect what camera read.
+Calling the CodeReader:
+
+```markdown
+let codeReaderVC = CodeReaderViewController().instantiate(delegate: self)
+self.present(codeReaderVC, animated: true, completion: nil)
+```
+
+Implementing the `CodeReaderDelegate` you will receive objects thats reflect what camera read.
 
 ```markdown
 func codeReaderDidCancel()
