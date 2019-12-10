@@ -1,5 +1,6 @@
 ## CodeReader
 ![CodeReader v1.0.0](http://albertolourenco.com.br/github/code-reader.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAlbertoLourenco%2FCodeReader.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAlbertoLourenco%2FCodeReader?ref=badge_shield)
 
 This is a simple view controller wich you can call to read Barcodes or QRCodes for iOS developed with Swift 4.
 
@@ -43,3 +44,7 @@ subtitle
 ```
 
 Thanks!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAlbertoLourenco%2FCodeReader.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAlbertoLourenco%2FCodeReader?ref=badge_large)
