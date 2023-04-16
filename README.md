@@ -1,6 +1,6 @@
 ![cover](https://raw.githubusercontent.com/AlbertoLourenco/CodeReader/master/github-assets/cover.png)
 
-This is a simple view controller wich you can call to read Barcodes or QRCodes for iOS developed with Swift 4.
+It's a simple view controller that you can instantiate to read Barcodes or QRCodes.
 
 ## How to use
 
